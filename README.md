@@ -54,19 +54,57 @@
 
 ## 🚀 Featured Projects
 
-### 1. AI-Based Online Compiler
-- Generate code using natural language prompts.
-- Execute code using an online compilation API.
-- Technologies: HTML, CSS, JavaScript, Gemini API, JDoodle API.
+<details>
+<summary><strong>AI-Based Online Compiler — Natural Language to Code</strong></summary>
 
-### 2. Attire Price Prediction
-- Predict clothing prices based on product attributes.
-- Implemented using Random Forest Regression.
-- Technologies: Python, Pandas, NumPy, Scikit-learn.
+<br/>
 
-### 3. Automatic Railway Crossing System
-- Automated railway gate control using sensors.
-- Technologies: Arduino, IR Sensors, Servo Motor.
+An AI-powered online compiler that converts natural language prompts into executable code. Users can describe a program in English, select a programming language, and generate, compile, and execute code.
+
+| Area | Details |
+|---|---|
+| Technologies | HTML, CSS, JavaScript, Gemini API, JDoodle API |
+| AI Integration | Google Gemini API |
+| Compilation | JDoodle API |
+| Key Functionality | Natural language code generation, code compilation and execution |
+| Project Repository | [View Project](https://github.com/siddu0987/Ai-Based-Online-Compiler-Using-natural-language-prompts) |
+
+</details>
+
+<details>
+<summary><strong>Attire Price Prediction — Machine Learning</strong></summary>
+
+<br/>
+
+A machine learning application that predicts clothing prices based on product attributes such as brand, category, color, size, and material.
+
+| Area | Details |
+|---|---|
+| Technologies | Python, Pandas, NumPy, Scikit-learn |
+| Algorithm | Random Forest Regressor |
+| Data Processing | Label Encoding |
+| Model Evaluation | Mean Absolute Error (MAE) |
+| Project Repository | [View Project](https://github.com/siddu0987/Ai-Based-Online-Compiler-Using-natural-language-prompts) |
+
+</details>
+
+<details>
+<summary><strong>Automatic Railway Crossing System — Hardware Project</strong></summary>
+
+<br/>
+
+An automated railway crossing system that uses sensors to detect train movement and controls the railway gate automatically.
+
+| Area | Details |
+|---|---|
+| Technologies | Arduino, IR Sensors, Servo Motor |
+| Controller | Arduino |
+| Key Functionality | Train detection and automatic gate control |
+| Project Focus | Railway crossing safety automation |
+| Project Repository | [View Project](https://github.com/siddu0987/Automatic-Railway-Crossing-System) |
+
+</details>
+
 
 ## 🏆 Certifications & Achievements
 
