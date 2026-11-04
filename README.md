@@ -1,5 +1,11 @@
 # Siddhardha
 
+<p align="center">
+  <img src="assets/Tech Workspace Waves and Laptop.png"
+       width="100%"
+       alt="Developer Background"/>
+  
+</p>
 <h1 align="center">Hi 👋, I'm Siddhardha</h1>
 <h3 align="center">Java Developer | Python Programmer | AI & ML Enthusiast</h3>
 
