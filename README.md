@@ -75,15 +75,7 @@
 - Oracle Agentic AI Foundations Associate
 - Solved 170+ DSA problems
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddu0987&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddu0987&layout=compact&theme=tokyonight" />
-</p>
 
 ## 🤝 Connect With Me
 
