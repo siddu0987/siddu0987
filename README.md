@@ -9,6 +9,17 @@
 </p>
 
 ---
+## 🎓 Education
+
+**B.E. Computer Science and Engineering – Artificial Intelligence & Machine Learning**
+
+Sathyabama Institute of Science and Technology, Chennai
+
+- Batch: 2023 – 2027
+- Expected Graduation: May 2027
+- CGPA: 8.6
+
+---
 
 ## 👨‍💻 About Me
 
@@ -106,13 +117,18 @@ An automated railway crossing system that uses sensors to detect train movement 
 </details>
 
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications
 
-- NPTEL – Programming in Java
-- NPTEL – Database Management Systems
-- Oracle Agentic AI Foundations Associate
-- Solved 170+ DSA problems
+| Certification | Platform |
+|---|---|
+| Programming in Java | NPTEL |
+| Database Management Systems | NPTEL |
 
+## 💡 Achievements
+
+- Solved 170+ Data Structures and Algorithms problems.
+- Built 3 major academic and technical projects.
+- Continuously improving Java, Python and problem-solving skills.
 
 
 ## 🤝 Connect With Me
