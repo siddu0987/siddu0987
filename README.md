@@ -8,10 +8,38 @@
   Passionate about software development, problem-solving and building practical projects.
 </p>
 
----
-## 🎓 Education
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Developer-blue?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Python-Programmer-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-6C63FF?style=for-the-badge" />
+</p>
 
-**B.E. Computer Science and Engineering – Artificial Intelligence & Machine Learning**
+
+
+---
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+<h2>👨‍💻 About Me</h2>
+
+- 🎓 B.E. CSE – Artificial Intelligence & Machine Learning
+- 🏫 Sathyabama Institute of Science and Technology, Chennai
+- 💻 Interested in Java Development and Backend Development
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🌱 Currently learning Hibernate, Spring and Spring Boot
+- 🧩 Practicing Data Structures and Algorithms
+
+</td>
+<td width="42%" valign="top">
+
+
+<h2>🎓 Education</h2>
+
+**B.E. Computer Science and Engineering**
+
+Artificial Intelligence & Machine Learning
 
 Sathyabama Institute of Science and Technology, Chennai
 
@@ -19,49 +47,42 @@ Sathyabama Institute of Science and Technology, Chennai
 - Expected Graduation: May 2027
 - CGPA: 8.6
 
+</td>
+</tr>
+</table>
+
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 B.E. Computer Science and Engineering (AI & ML)
-- 🏫 Sathyabama Institute of Science and Technology, Chennai
-- 💻 Interested in Java Development, Backend Development and AI/ML
-- 🌱 Currently learning Hibernate, Spring and Spring Boot
-- 🧩 Practicing Data Structures and Algorithms
-- 🚀 Always interested in learning new technologies and building projects
-
-## 🛠️ Technical Skills
+<h2>🛠️ Technical Skills</h2>
 
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c" />
+<img src="https://skillicons.dev/icons?i=java,python,c" />
 </p>
 
 **Web Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,flask" />
+<img src="https://skillicons.dev/icons?i=html,css,js,flask" />
 </p>
 
 **Database & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
 
 **AI & Machine Learning**
 
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+</p>
 
-**Database Concepts**
+---
 
-- SQL
-- MySQL
-- JDBC
 
 ## 🚀 Featured Projects
 
@@ -116,13 +137,35 @@ An automated railway crossing system that uses sensors to detect train movement 
 
 </details>
 
+</td>
+</tr>
+</table>
 
-## 🏆 Certifications
 
-| Certification | Platform |
-|---|---|
-| Programming in Java | NPTEL |
-| Database Management Systems | NPTEL |
+
+---
+
+<h2>🏆 Certifications</h2>
+
+<table>
+<tr>
+<th>Certification</th>
+<th>Platform</th>
+</tr>
+<tr>
+<td>Programming in Java</td>
+<td>NPTEL</td>
+</tr>
+<tr>
+<td>Database Management Systems</td>
+<td>NPTEL</td>
+</tr>
+<tr>
+
+</tr>
+</table>
+
+---
 
 ## 💡 Achievements
 
