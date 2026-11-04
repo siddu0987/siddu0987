@@ -1,13 +1,13 @@
 # Siddhardha
 
 <p align="center">
-  <img src="assets/Tech Workspace Waves and Laptop.png"
+  <img src="assets/Developer Desk with Coding Portfolio Banner.png"
        width="100%"
        alt="Developer Background"/>
   
 </p>
-<h1 align="center">Hi 👋, I'm Siddhardha</h1>
-<h3 align="center">Java Developer | Python Programmer | AI & ML Enthusiast</h3>
+
+
 
 <p align="center">
   Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
@@ -28,14 +28,19 @@
 <tr>
 <td width="58%" valign="top">
 
+
+
+
 <h2>👨‍💻 About Me</h2>
 
-- 🎓 B.E. CSE – Artificial Intelligence & Machine Learning
-- 🏫 Sathyabama Institute of Science and Technology, Chennai
-- 💻 Interested in Java Development and Backend Development
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🌱 Currently learning Hibernate, Spring and Spring Boot
-- 🧩 Practicing Data Structures and Algorithms
+<p>
+I am a <strong>CSE (AI & ML) student</strong> at Sathyabama Institute of Science and Technology, Chennai, with a strong foundation in <strong>Java, Python, Data Structures and Algorithms</strong>. I am passionate about <strong>Software Development, Backend Engineering and Artificial Intelligence</strong>.
+</p>
+
+<p>
+I enjoy building practical projects and solving real-world problems. Currently, I am strengthening my backend skills in <strong>JDBC, MySQL,FLASK</strong> while continuously improving my problem-solving abilities through <strong>170+ DSA problems</strong>.
+</p>
+
 
 </td>
 <td width="42%" valign="top">
