@@ -110,7 +110,7 @@ An AI-powered online compiler that converts natural language prompts into execut
 | AI Integration | Google Gemini API |
 | Compilation | JDoodle API |
 | Key Functionality | Natural language code generation, code compilation and execution |
-| Project Repository | [View Project](https://github.com/siddu0987/Ai-Based-Online-Compiler-Using-natural-language-prompts) |
+| Project Repository | [View Project](https://github.com/siddu0987/Attire-Price-Prediction) |
 
 </details>
 
